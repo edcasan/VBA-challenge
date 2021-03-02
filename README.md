@@ -1,4 +1,4 @@
-Stock market analyst
+Stock market analyst.
 
 
 Creation of a script that loop through all the stocks for one year and output the following information.
